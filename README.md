@@ -37,6 +37,18 @@ Who am I kidding, the only thing you need to know is this is a widget for Übers
 
 ## Updates
 
+0.87a
+* Fixed a bug with time display on new version of übersicht.
+
+0.86a
+* Fixed a bug with network traffic cells.
+
+0.85a
+* Fixed a bug with Empty Trash function, contributed by @mgarbacz
+
+0.84a
+* Added random delay of warning cells. Special thanks to NorthIsUp.
+
 0.83a
 * Added two blocks to show the sum of network traffic on all interfaces, notice that it includes localhost2localhost traffic.
 
